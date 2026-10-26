@@ -1,0 +1,13 @@
+node_modules/
+*.log
+*.pid
+server*.log
+server*.err
+diag.ps1
+verify.ps1
+proc*.ps1
+stop*.ps1
+launch.ps1
+start_server.bat
+copy.ps1
+testout.txt
